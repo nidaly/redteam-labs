@@ -73,26 +73,6 @@ telnet 10.129.64.116
 
 ---
 
-## 🛡️ Detection & Mitigation
-
-### 🔍 Detection
-- Monitor:
-  - Traffic on **port 23 (Telnet)**
-  - Unauthorized root login attempts  
-
-- SIEM Alerts:
-  - Telnet usage in modern infrastructure  
-  - Unusual remote login patterns  
-
-### 🛠️ Mitigation
-- Disable Telnet service  
-- Use **SSH (Secure Shell)** instead  
-- Enforce strong authentication mechanisms  
-- Restrict root login access  
-- Apply network access controls (firewall rules)  
-
----
-
 ## 🧠 Key Learnings
 
 - Enumeration is critical in identifying attack vectors  

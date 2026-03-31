@@ -4,7 +4,7 @@
 - **Platform:** Hack The Box
 - **Difficulty:** Easy
 - **Machine Name:** Cap
-- **Date Completed:** [Add Date]
+- **Date Completed:** 31st March 2026
 
 ---
 

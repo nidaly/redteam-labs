@@ -14,7 +14,7 @@ Gain initial access to the target machine and escalate privileges to root.
 ---
 
 ## 🌐 Target Information
-- **Target IP:** [Add IP]
+- **Target IP:** 10.129.64.116
 
 ---
 
@@ -80,7 +80,7 @@ wireshark capture.pcap
 
 ### FTP Login
 ```bash
-ftp <target-ip>
+ftp 10.129.64.116
 ```
 
 - Logged in using discovered credentials  
@@ -92,7 +92,7 @@ ftp <target-ip>
 
 ### Step 1: SSH Access
 ```bash
-ssh nathan@<target-ip>
+ssh nathan@10.129.64.116
 ```
 
 - Gained shell access  

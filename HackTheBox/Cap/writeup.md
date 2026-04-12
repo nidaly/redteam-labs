@@ -22,7 +22,7 @@ Gain initial access to the target machine and escalate privileges to root.
 
 ### Nmap Scan
 ```bash
-nmap -sC -sV <target-ip>
+nmap -sV 10.129.64.116 -T4
 ```
 
 ### 📊 Results
